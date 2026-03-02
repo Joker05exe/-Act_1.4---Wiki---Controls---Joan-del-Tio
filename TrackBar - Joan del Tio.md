@@ -30,9 +30,7 @@ S'utilitza molt habitualment per modificar el volum d'un reproductor multimèdia
 ![Demostració del funcionament de TrackBar](./img/Puja_Volum.mp4)
 
 ## URL del code snippet a github
-*(Substitueix l'enllaç de sota per l'enllaç permanent creat al teu compte de GitHub: [Guia oficial](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-a-permanent-link-to-a-code-snippet))*
-
-[Enllaç al fragment de codi complet - GitHub (Posa la teva URL)](https://github.com/EL_TEU_USUARI/EL_TEU_REPO/blob/main/FormOpcions.cs#L20-L28)
+[Enllaç al fragment de codi complet - GitHub](https://github.com/Joker05exe/-Act_1.4---Wiki---Controls---Joan-del-Tio/blob/trackbar-joan/ExemplesControls/Form1.cs#L30-L40)
 
 ---
 ### Codi de referència per l'snippet (Ideal per capturar de mostra al GitHub):
