@@ -27,7 +27,7 @@ El control `TrackBar` és una barra lliscant (slider) que permet a l'usuari sele
 S'utilitza molt habitualment per modificar el volum d'un reproductor multimèdia. S'assigna el valor d'un `TrackBar` (per exemple, de 0 a 100) directament a la variable de volum del motor d'àudio a través de l'esdeveniment `Scroll` per tal de veure el canvi en el volum a mesura que l'usuari mou l'indicador. També s'empra en programes de disseny gràfic per a canviar el gruix del pinzell o l'opacitat d'una capa.
 
 ## Demostració en vídeo (GIF/MP4) de les capacitats del control
-<video src="https://github.com/Joker05exe/-Act_1.4---Wiki---Controls---Joan-del-Tio/raw/trackbar-joan/img/Puja_Volum.mp4" controls="controls" style="max-width: 100%;">
+<video src="https://raw.githubusercontent.com/Joker05exe/-Act_1.4---Wiki---Controls---Joan-del-Tio/trackbar-joan/img/Puja_Volum.mp4" controls="controls" style="max-width: 100%;">
   El teu navegador no suporta la reproducció de vídeo.
 </video>
 
