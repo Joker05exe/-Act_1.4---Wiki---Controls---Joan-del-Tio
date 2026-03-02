@@ -33,7 +33,7 @@ S'utilitza molt habitualment per modificar el volum d'un reproductor multimèdia
 [Enllaç al fragment de codi complet - GitHub](https://github.com/Joker05exe/-Act_1.4---Wiki---Controls---Joan-del-Tio/blob/trackbar-joan/ExemplesControls/Form1.cs#L30-L40)
 
 ---
-### Codi de referència per l'snippet (Ideal per capturar de mostra al GitHub):
+### Codi de referència per l'snippet:
 
 ```csharp
 private void trackBarVolum_Scroll(object sender, EventArgs e)
