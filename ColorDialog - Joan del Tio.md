@@ -25,7 +25,9 @@ Com a quadre de diàleg genèric que interromp el flux normal de l'aplicació fi
 El cas d'ús típic consisteix a associar el mètode `.ShowDialog()` a l'esdeveniment `Click` d'un control (ex: un botó). Quan l'usuari fa clic, la finestra del diàleg apareix en pantalla. Després de comprovar que l'usuari ha acceptat l'elecció amb un botó de tipus `OK` / "D'acord", s'assigna l'informació continguda a la propietat `Color` al control desitjat, com un Form o un Label (per exemple, per a actualitzar-ne l'atribut `BackColor` o `ForeColor`).
 
 ## Demostració en vídeo (GIF/MP4) de les capacitats del control
-![Demostració del funcionament de ColorDialog](./img/Cambiar_color.mp4)
+<video src="https://github.com/Joker05exe/-Act_1.4---Wiki---Controls---Joan-del-Tio/raw/colordialog-joan/img/Cambiar_color.mp4" controls="controls" style="max-width: 100%;">
+  El teu navegador no suporta la reproducció de vídeo.
+</video>
 
 ## URL del code snippet a github
 [Enllaç al fragment de codi complet - GitHub](https://github.com/Joker05exe/-Act_1.4---Wiki---Controls---Joan-del-Tio/blob/colordialog-joan/ExemplesControls/Form1.cs#L14-L28)
