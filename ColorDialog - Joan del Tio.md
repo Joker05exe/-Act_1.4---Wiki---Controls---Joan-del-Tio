@@ -28,9 +28,7 @@ El cas d'ús típic consisteix a associar el mètode `.ShowDialog()` a l'esdeven
 ![Demostració del funcionament de ColorDialog](./img/Cambiar_color.mp4)
 
 ## URL del code snippet a github
-*(Substitueix l'enllaç següent per l'enllaç real que generis seguint la guia oficial a GitHub: [Permanent links to code snippets](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-a-permanent-link-to-a-code-snippet))*
-
-[Enllaç al fragment de codi - GitHub (Modificar-me!)](https://github.com/TEl_TEU_USUARI/EL_TEU_REPO/blob/main/LaTevaClasse.cs#L10-L15)
+[Enllaç al fragment de codi complet - GitHub](https://github.com/Joker05exe/-Act_1.4---Wiki---Controls---Joan-del-Tio/blob/colordialog-joan/ExemplesControls/Form1.cs#L14-L28)
 
 ---
 ### Codi de referència per l'snippet (Pots usar el següent text per apujar-lo a GitHub):
